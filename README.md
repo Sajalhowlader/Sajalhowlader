@@ -1,6 +1,7 @@
 ![ Front-end web developer](https://i.ibb.co/dgdzXRP/Beige-Minimalist-Profile-Linked-In-Banner.png)
-### Hi there 👋, This is Sajal Howlader
-####  Front-end web developer
+## Hi there 👋, This is Sajal Howlader
+###  Front-end web developer
+
 I am a front-end web developer. I love to use my creativity and make something new. That's why I love to work with React.js and Node.js. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly.
 
 Skills: HTML/CSS/JAVASCRIPT/REACT/NODE.JS
